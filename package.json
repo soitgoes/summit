@@ -15,7 +15,7 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "=2.3.2",
-    "bogart-edge": "=0.7.3",
+    "bogart-edge": "git+https://git@github.com/dhjohn0/bogart.git#develop",
     "bogart-injector": "=0.2.1",
     "cheerio": "=0.17.0",
     "elasticsearch": "=10.1.3",
